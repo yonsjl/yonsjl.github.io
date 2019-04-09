@@ -1,10 +1,10 @@
 # Site settings
-title: BY Blog
-SEOTitle: 朱嘉磊的博客 | BY Blog
+title: ZJL Blog
+SEOTitle: 朱嘉磊的博客 | ZJL Blog
 header-img: img/post-bg-desk.jpg
 email: 386373008@gmail.com
 description: "Every failure is leading towards success."
-keyword: "BY, BY Blog, 朱嘉磊的博客, zjl, 朱嘉磊, iOS, Apple, iPhone"
+keyword: "ZJL, ZJL Blog, 朱嘉磊的博客, zjl, 朱嘉磊, iOS, Apple, iPhone"
 url: "http://yonsjl.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/yonsjl/yonsjl.github.io.git" # you code repository
@@ -12,7 +12,7 @@ github_repo: "https://github.com/yonsjl/yonsjl.github.io.git" # you code reposit
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Goals determine what you going to be!"
-sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/about-ZJL-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
@@ -99,7 +99,7 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "简书·BY",
+        title: "简书·ZJL",
         href: "http://www.jianshu.com/"
     },{
         title: "Apple",
