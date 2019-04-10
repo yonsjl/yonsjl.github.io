@@ -1,3 +1,18 @@
+---
+layout:     post
+title:      顶顶顶顶 进阶
+subtitle:   函数式编程框架 顶顶顶顶顶 进阶
+date:       2017-01-06
+author:     请求
+header-img: img/post-bg-ios9-web.jpg
+catalog: true
+tags:
+    - iOS
+    - 顶顶顶顶顶
+    - 函数式编程
+    - 开源框架
+---
+
 # 欢迎使用 Cmd Markdown 编辑阅读器
 
 ------
