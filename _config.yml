@@ -2,7 +2,7 @@
 title: ZJL Blog
 SEOTitle: 朱嘉磊的博客 | ZJL Blog
 header-img: img/post-bg-desk.jpg
-email: 386373008@gmail.com
+email: 386373008@qq.com
 description: "Every failure is leading towards success."
 keyword: "ZJL, ZJL Blog, 朱嘉磊的博客, zjl, 朱嘉磊, iOS, Apple, iPhone"
 url: "http://yonsjl.github.io"          # your host, for absolute URL
@@ -74,10 +74,10 @@ gitalk:
 
 # Analytics settings
 # Baidu Analytics
-# ba_track_id: b50bf2b12b5338a1845e33832976fd68
+ba_track_id: 3f742047b2b8335c1d4b7f33942598a1
 
 # Google Analytics
-ga_track_id: 'UA-90855599-1'            # Format: UA-xxxxxx-xx
+# ga_track_id: 'UA-90855599-1'            # Format: UA-xxxxxx-xx
 ga_domain: auto               # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
 
 
